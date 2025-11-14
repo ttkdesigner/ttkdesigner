@@ -1,16 +1,26 @@
-## Hi there 👋
+## 🪄 Tkinter GUI Designer with ttkbootstrap
 
-<!--
-**ttkdesigner/ttkdesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A lightweight yet powerful visual designer for building modern Tkinter interfaces.
 
-Here are some ideas to get you started:
+This tool brings a true WYSIWYG experience to Tkinter development, allowing you to design interfaces visually and generate clean, ready-to-use Python code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Features
+🔹 Real-Time WYSIWYG Preview
+
+See your UI exactly as it will look while you build it — no running scripts, no guessing.
+
+🔹 Intuitive Widget Nesting
+
+Drag, drop, and structure widgets with an easy-to-use hierarchy panel.
+
+🔹 Multi-Selection for Rapid Batch Editing
+
+Select multiple widgets simultaneously and adjust their properties in one go.
+
+🔹 Clean Python Code Generation
+
+Instantly export tidy, readable Python code using ttkbootstrap components.
+
+🔹 Project Persistence
+
+Save your work, load existing projects, and continue editing seamlessly at any time.
